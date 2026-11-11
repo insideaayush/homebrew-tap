@@ -3,8 +3,8 @@ class ChatMemorySync < Formula
 
   desc "Searchable memory bank of your AI coding chats across tools and machines"
   homepage "https://github.com/insideaayush/chat-memory-sync"
-  url "https://github.com/insideaayush/chat-memory-sync/archive/refs/tags/v0.5.0.tar.gz"
-  sha256 "e8657b880a2cc46d12de694bb88a943d6d037e9821da630b4e7a68df381c0521"
+  url "https://github.com/insideaayush/chat-memory-sync/archive/refs/tags/v0.5.1.tar.gz"
+  sha256 "8aa9e60bd26cd1b66fa4ccd64f760dd19e94e08a90f41ac71d164a09bb65aeb9"
   license "MIT"
 
   depends_on "python@3.12"
